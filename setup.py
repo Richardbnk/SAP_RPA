@@ -11,7 +11,7 @@ setuptools.setup(
     url="https://github.com/Richardbnk/sap_rpa",
     packages=['sap_rpa'],
     
-    py_modules = ['PyPDF2'],
+    py_modules = [],
     
     classifiers=[
         "Programming Language :: Python :: 3",
